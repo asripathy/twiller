@@ -1,5 +1,7 @@
 ## Instructions
 
+TwillerApp allows you to set up your Twilio phone number to handle creating and deleting tweets with a simple text.
+
 ### Create Twilio Phone number
 Follow instructions here: https://www.twilio.com/docs/sms/quickstart/java#get-a-phone-number
 
